@@ -3,9 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea/
+
 # C extensions
 *.so
-
+*.xml
 # Distribution / packaging
 .Python
 env/
